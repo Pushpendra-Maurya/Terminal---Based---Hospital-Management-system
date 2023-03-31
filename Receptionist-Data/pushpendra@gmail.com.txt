@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Pushpendra----------*-----------*----------*
+Receptionist Name :- Pushpendra
+Receptionist Contact :- 9632587414
+Receptionist Age :- 22
+Receptionist Email :- pushpendra@gmail.com
+Receptionist Address :- Thane
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Pushpendra ---------*----------------*
